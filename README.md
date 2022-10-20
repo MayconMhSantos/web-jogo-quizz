@@ -4,6 +4,6 @@ Jogo com 3 perguntas sobre logica de programação podendo ser alterado a quanti
 
 
 ![image](https://user-images.githubusercontent.com/68924739/196826434-0819f5b4-cdb2-42b6-98e4-fa425ef2c448.png)
-![image](https://user-images.githubusercontent.com/68924739/196826442-92ec0aea-8929-41a1-b57e-7612255dc118.png)
+![image](https://user-images.githubusercontent.com/68924739/196826601-04021b1f-667f-4d61-89c9-ec5d43c7597a.png)
 ![image](https://user-images.githubusercontent.com/68924739/196826532-d25d95d7-2205-43c4-8991-3727433da41b.png)
 
